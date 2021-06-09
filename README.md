@@ -4,8 +4,6 @@
 [![Instagram Follow](https://img.shields.io/instagram/follow/oguzsancaktar?color=1DA1F2&logo=instagram&style=for-the-badge)](https://instagram.com/oguzzsancaktar)
 
 
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=oguzzsancaktar)](https://github.com/anuraghazra/github-readme-stats)
-
 ## I'm a Creative Developer, Dreamer, Idealist , soon as Teacher!!
 
 - 🌱  I’m currently learning everything 🤣
@@ -17,6 +15,10 @@
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+
+
+
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=oguzzsancaktar)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me:
 
