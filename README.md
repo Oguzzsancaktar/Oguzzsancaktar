@@ -13,7 +13,7 @@
 - 🚀  I Will Learn GraphQL / GatsBY / Deno / SQL / MYSQL / MONGODB
 
 ## My Github Profile Stats
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=oguzzsancaktar)](https://github.com/anuraghazra/github-readme-stats)
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=oguzzsancaktar&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Profile Including
 
