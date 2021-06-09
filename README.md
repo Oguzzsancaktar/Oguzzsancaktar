@@ -1,7 +1,7 @@
 ### Hi there, I'm Taha Sancaktar [OguzzSancaktar][website] 👋
 
-[![Website](https://img.shields.io/website?label=oguzsancaktar.com&style=for-the-badge&url=https%3A%2F%2Foguzsancaktar.com)](https://oguzzsancaktar.com)
-[![Twitter Follow](https://img.shields.io/instagram/follow/oguzsancaktar?color=1DA1F2&logo=twitter&style=for-the-badge)](https://instagram.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Foguzzsancaktar&screen_name=oguzzsancaktar)
+[![Website](https://img.shields.io/website?label=oguzsancaktar.com&style=for-the-badge&url=https%3A%2F%2Foguzsancaktar.com)](https://oguzsancaktar.com)
+[![Instagram Follow](https://img.shields.io/instagram/follow/oguzsancaktar?color=1DA1F2&logo=instagram&style=for-the-badge)](https://instagram.com/oguzzsancaktar)
 
 
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=oguzzsancaktar)](https://github.com/anuraghazra/github-readme-stats)
