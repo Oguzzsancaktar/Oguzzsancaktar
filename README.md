@@ -61,6 +61,6 @@
 
 
 [website]: https://oguzsancaktar.com
-[instagram]: https://instagram.com/oguzzsancaktar
+[instagram]: https://instagram.com/_sancaktar
 [linkedin]: https://linkedin.com/in/oğuztahasancaktar
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
