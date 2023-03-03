@@ -7,10 +7,7 @@
 ## I'm a Creative Developer, Dreamer, Idealist , soon as Teacher!!
 
 - 🌱  I’m currently learning everything 🤣
-- 👯  I’m looking to collaborate with other content creators
-- 🥅  2021 Goals: Contribute more to Open Source projects
-- ⚡  Fun fact: I love to draw and play guitar / drums
-- 🚀  I Will Learn GraphQL / GatsBY / Deno / SQL / MYSQL / MONGODB
+- 🥅  2023 Goals: Contribute more to Open Source projects
 
 ## My Github Profile Stats
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=oguzzsancaktar&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
