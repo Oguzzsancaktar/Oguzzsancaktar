@@ -7,6 +7,13 @@
 ## I'm a Creative Developer, Dreamer, Idealist , soon as Teacher!!
 
 - 🌱  I’m currently learning everything 🤣
+- 🔥 Frontend Dev from Digital Architecture
+- ⚛️ React 
+- 🅰️ Angular 
+- 📊 d3
+- 🎁 Web 3.0
+- 🔬 Micro Frontend 
+- 🧐 Monorepo
 - 🥅  2023 Goals: Contribute more to Open Source projects
 
 ## My Github Profile Stats
