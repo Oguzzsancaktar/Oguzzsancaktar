@@ -1,6 +1,6 @@
 ### Hi there, I'm [OguzzSancaktar][website] 👋
 
-[![Website](https://oguzsancaktar.onrender.com/)(https://oguzsancaktar.onrender.com/)]
+[![Website]](https://oguzsancaktar.onrender.com/)
 [![Instagram Follow](https://img.shields.io/github/followers/oguzzsancaktar?color=f2f200&label=oguzzsancaktar&style=for-the-badge)](https://instagram.com/oguzzsancaktar)
 
 
