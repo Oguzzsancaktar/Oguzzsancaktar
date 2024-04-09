@@ -14,7 +14,7 @@
 - 🎁 Web 3.0
 - 🔬 Micro Frontend 
 - 🧐 Monorepo
-- 🥅  2023 Goals: Contribute more to Open Source projects
+- 🥅  2024 Goals: Contribute more to Open Source projects
 
 ## My Github Profile Stats
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=oguzzsancaktar&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
